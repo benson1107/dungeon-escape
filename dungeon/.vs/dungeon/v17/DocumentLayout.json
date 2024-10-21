@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dungeon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|E:\\dungeon\\dungeon\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|solutionrelative:dungeon\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|e:\\dungeon\\dungeon\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|solutionrelative:dungeon\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|E:\\dungeon\\dungeon\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|solutionrelative:dungeon\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|e:\\dungeon\\dungeon\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|solutionrelative:dungeon\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|e:\\dungeon\\dungeon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|solutionrelative:dungeon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|E:\\dungeon\\dungeon\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|solutionrelative:dungeon\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|E:\\dungeon\\dungeon\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|solutionrelative:dungeon\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|E:\\dungeon\\dungeon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|solutionrelative:dungeon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|E:\\dungeon\\dungeon\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899F7314-DE16-4EC6-8A5D-3D11C96CD4F4}|dungeon\\dungeon.csproj|solutionrelative:dungeon\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "E:\\dungeon\\dungeon\\Form2.cs",
+              "RelativeDocumentMoniker": "dungeon\\Form2.cs",
+              "ToolTip": "E:\\dungeon\\dungeon\\Form2.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "dungeon\\Form2.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:17:27.521Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "E:\\dungeon\\dungeon\\Form1.cs",
+              "RelativeDocumentMoniker": "dungeon\\Form1.cs",
+              "ToolTip": "E:\\dungeon\\dungeon\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "dungeon\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:17:26.061Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "E:\\dungeon\\dungeon\\Form3.cs",
+              "RelativeDocumentMoniker": "dungeon\\Form3.cs",
+              "ToolTip": "E:\\dungeon\\dungeon\\Form3.cs",
+              "RelativeToolTip": "dungeon\\Form3.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:17:22.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "E:\\dungeon\\dungeon\\Form5.cs",
+              "RelativeDocumentMoniker": "dungeon\\Form5.cs",
+              "ToolTip": "E:\\dungeon\\dungeon\\Form5.cs",
+              "RelativeToolTip": "dungeon\\Form5.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAiwLsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:17:22.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "E:\\dungeon\\dungeon\\Form3.cs",
+              "RelativeDocumentMoniker": "dungeon\\Form3.cs",
+              "ToolTip": "E:\\dungeon\\dungeon\\Form3.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "dungeon\\Form3.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:17:22.48Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "E:\\dungeon\\dungeon\\Form5.cs",
+              "RelativeDocumentMoniker": "dungeon\\Form5.cs",
+              "ToolTip": "E:\\dungeon\\dungeon\\Form5.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "dungeon\\Form5.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:17:22.481Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "E:\\dungeon\\dungeon\\Form4.cs",
+              "RelativeDocumentMoniker": "dungeon\\Form4.cs",
+              "ToolTip": "E:\\dungeon\\dungeon\\Form4.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "dungeon\\Form4.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:17:22.516Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "E:\\dungeon\\dungeon\\Form4.cs",
+              "RelativeDocumentMoniker": "dungeon\\Form4.cs",
+              "ToolTip": "E:\\dungeon\\dungeon\\Form4.cs",
+              "RelativeToolTip": "dungeon\\Form4.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAewCcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-21T11:17:22.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dungeon\\dungeon\\Program.cs",
+              "RelativeDocumentMoniker": "dungeon\\Program.cs",
+              "ToolTip": "E:\\dungeon\\dungeon\\Program.cs",
+              "RelativeToolTip": "dungeon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:17:22.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
